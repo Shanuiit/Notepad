@@ -38,7 +38,7 @@ links:
     url: /
     external: false
     icon: home
-  - title: Blog
+  - title: Blogs
     url: /blogs
   - title: Projects
     url: /projects
