@@ -16,7 +16,7 @@ owner:
   avatar:         shanu.jpg
   email:          sshanukr@gmail.com
   # Use the coder's toolbox at https://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    
   # Social networking links used in footer. Update and remove as you like.
   # twitter:        hmfaysal
   facebook:       Shanu1207
@@ -46,6 +46,8 @@ links:
     url: /categories
   - title: About
     url: /about
+  - title: Resume
+    url: /resume.pdf
 
 
 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
