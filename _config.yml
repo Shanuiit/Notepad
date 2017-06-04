@@ -75,7 +75,7 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'https://sshanu.github.io/'
+  siteurl: 'https://shanuiit.github.io/Notebook'
   relativeLinks: 'https://shanuiit.github.io/Notepad/links.jsonp'
   media: 'images'
   metadata:
